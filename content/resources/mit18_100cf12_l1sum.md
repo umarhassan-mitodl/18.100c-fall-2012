@@ -6,6 +6,8 @@ description: Lecture summary on sets, ordered sets, ordering pairs of numbers, a
 file: /courses/18-100c-real-analysis-fall-2012/7c7ef89385baa9fc8f92d7713872cecf_MIT18_100CF12_l1sum.pdf
 file_size: 600287
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

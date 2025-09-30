@@ -4,6 +4,8 @@ description: This resource contains information regarding correction.
 file: /courses/18-100c-real-analysis-fall-2012/ea3a3b829896a324bdc167ad08095f3e_MIT18_100CF12_l24four-cor.pdf
 file_size: 156891
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

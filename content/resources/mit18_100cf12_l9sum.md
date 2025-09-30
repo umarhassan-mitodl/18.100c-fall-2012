@@ -5,6 +5,8 @@ description: This resource contains information regarding subsequential limits, 
 file: /courses/18-100c-real-analysis-fall-2012/be087073df80fa3353ea3ccd6c8ba0bb_MIT18_100CF12_l9sum.pdf
 file_size: 608030
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

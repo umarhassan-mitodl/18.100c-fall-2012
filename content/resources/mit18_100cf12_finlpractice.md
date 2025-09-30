@@ -4,6 +4,8 @@ description: This resource contains information regarding practice final exam.
 file: /courses/18-100c-real-analysis-fall-2012/142d99f1707e9d98b024b955382d94e7_MIT18_100CF12_finlpractice.pdf
 file_size: 624549
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

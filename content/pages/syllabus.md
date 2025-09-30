@@ -25,7 +25,7 @@ The three options for 18.100:
 
 - Option A ([18.100A](/courses/18-100a-introduction-to-analysis-fall-2012)) chooses less abstract definitions and proofs, and gives applications where possible.
 - Option B ([18.100B](/courses/18-100b-analysis-i-fall-2010)) is more demanding and for students with more mathematical maturity; it places more emphasis from the beginning on point-set topology and n-space, whereas Option A is concerned primarily with analysis on the real line, saving for the last weeks work in 2-space (the plane) and its point-set topology.
-- Option C (18.100C) is a 15-unit variant of Option B, with further instruction and practice in written and oral communication. This fulfills the {{% resource_link "b6ac5fb9-9c83-45ab-94ae-9b0397339be9" "MIT CI requirement" %}}.
+- Option C (18.100C) is a 15-unit variant of Option B, with further instruction and practice in written and oral communication. This fulfills the [MIT CI requirement](http://web.mit.edu/commreq/index.html).
 
 ## Textbook
 

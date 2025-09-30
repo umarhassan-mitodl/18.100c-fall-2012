@@ -5,6 +5,8 @@ description: 'This resource contains information regarding writing assignment 2:
 file: /courses/18-100c-real-analysis-fall-2012/e667846e5fdc1c8f0847b72e268929eb_MIT18_100CF12_Writing_2.pdf
 file_size: 133947
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

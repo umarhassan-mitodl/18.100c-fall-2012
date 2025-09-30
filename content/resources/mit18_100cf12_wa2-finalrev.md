@@ -5,6 +5,8 @@ description: This resource contains information regarding final revision of writ
 file: /courses/18-100c-real-analysis-fall-2012/77971c9613f08735269581e3cfb4fb78_MIT18_100CF12_wa2-finalrev.pdf
 file_size: 133458
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

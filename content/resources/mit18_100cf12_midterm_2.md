@@ -4,6 +4,8 @@ description: This resource contains information regarding practice midterm 2 sol
 file: /courses/18-100c-real-analysis-fall-2012/f90b5bbfbd57b42d0c57829e11fb61c8_MIT18_100CF12_Midterm_2.pdf
 file_size: 145625
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

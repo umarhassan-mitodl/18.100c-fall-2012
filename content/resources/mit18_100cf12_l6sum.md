@@ -5,6 +5,8 @@ description: This resource contains information regarding compact subsets of met
 file: /courses/18-100c-real-analysis-fall-2012/8c7147142c0b8f0d4cd4366a09951977_MIT18_100CF12_l6sum.pdf
 file_size: 586118
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

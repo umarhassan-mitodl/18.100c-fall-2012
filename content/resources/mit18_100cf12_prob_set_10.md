@@ -4,6 +4,8 @@ description: This resource contains information regarding problem set 10 solutio
 file: /courses/18-100c-real-analysis-fall-2012/c70a0ab2c22db0cd9e4dcfde05018808_MIT18_100CF12_Prob_Set_10.pdf
 file_size: 177952
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains information regarding problem set 4 solution
 file: /courses/18-100c-real-analysis-fall-2012/1b412c1242594b946b8d192f4e9d5d0b_MIT18_100CF12_Prob_Set_4.pdf
 file_size: 211697
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

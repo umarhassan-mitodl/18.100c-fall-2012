@@ -6,6 +6,8 @@ description: This resource contains information regarding the archimedean princi
 file: /courses/18-100c-real-analysis-fall-2012/18a0f72059e532f187d2576375b4167d_MIT18_100CF12_l3sum.pdf
 file_size: 604286
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
