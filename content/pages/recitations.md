@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Recitations
 uid: 226ba8b1-2ddf-ea8d-85cd-deb0a6bd7789
 ---
-The writing assignments and LaTeX exercises below were developed and refined by a succession of instructors in the MIT Department of Mathematics. These resources, and many others, are available on the [MathDL Mathematical Communications](http://mathcomm.org/) website. This public site is hosted by the [Mathematical Association of America](http://www.maa.org/) as part of the Mathematical Digital Sciences Library (MathDL). For more information, please see the MathDL page about [MIT's communication-intensive offering of *Real Analysis*.](http://mathcomm.org/courses/18-100cfall2009/)
+The writing assignments and LaTeX exercises below were developed and refined by a succession of instructors in the MIT Department of Mathematics. These resources, and many others, are available on the {{% resource_link "2e15d603-2fa1-4842-9f68-861b237c7c37" "MathDL Mathematical Communications" %}} website. This public site is hosted by the {{% resource_link "b9c4d22e-c77c-4ca0-b560-e00d968c9305" "Mathematical Association of America" %}} as part of the Mathematical Digital Sciences Library (MathDL). For more information, please see the MathDL page about {{% resource_link "9c3ca9d3-c735-4a0f-bda1-f61a609444da" "MIT's communication-intensive offering of *Real Analysis*." %}}
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
