@@ -4,8 +4,6 @@ description: This resource contains information regarding practice midterm 1.
 file: /courses/18-100c-real-analysis-fall-2012/9e42180361ea61b3e32bfb3603315e4d_MIT18_100CF12_mid1practice.pdf
 file_size: 121693
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

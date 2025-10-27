@@ -5,8 +5,6 @@ description: This resource contains information regarding fields, ordered fields
 file: /courses/18-100c-real-analysis-fall-2012/44b016f2af1f63e84bce01708b01326d_MIT18_100CF12_l2sum.pdf
 file_size: 574085
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

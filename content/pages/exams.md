@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes practice midterms, and a practice final exam for
   this course, with solutions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

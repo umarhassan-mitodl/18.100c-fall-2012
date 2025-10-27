@@ -5,8 +5,6 @@ description: This resource contains information regarding open subsets, limit po
 file: /courses/18-100c-real-analysis-fall-2012/f755c4ed05751f337df6a62cd4a0e2c1_MIT18_100CF12_l5sum.pdf
 file_size: 596415
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

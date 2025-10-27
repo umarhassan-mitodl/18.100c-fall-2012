@@ -5,8 +5,6 @@ description: This resource contains information regarding convergent sequences i
 file: /courses/18-100c-real-analysis-fall-2012/36804475959670653be2ca8211df91d7_MIT18_100CF12_l8sum.pdf
 file_size: 580334
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

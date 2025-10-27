@@ -5,8 +5,6 @@ description: This resource contains information regarding metric spaces, ball ne
 file: /courses/18-100c-real-analysis-fall-2012/71d385d0a8125d9c8a42434933151f86_MIT18_100CF12_l4sum.pdf
 file_size: 590385
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
